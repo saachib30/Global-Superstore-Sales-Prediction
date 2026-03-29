@@ -51,19 +51,20 @@ KPI metrics (Sales, Profit, Orders)
 Sales trends and category breakdown
 Regional performance insights
 Customer segment analysis
-
 Power BI dashboards help stakeholders quickly interpret business performance and trends.
 
 6. Reporting & Presentation
 Created a detailed analytical report summarizing findings
 Designed a professional presentation (PPT via Gamma)
 Highlighted key insights and recommendations
+
 📊 Dashboard Highlights
 Interactive filters for region, category, and time
 KPI cards for sales, profit, and orders
 Visual breakdown of product performance
 Geographic analysis of sales distribution
 Trend analysis for business growth
+
 📈 Key Results
 Identified top-performing product categories and regions
 Highlighted loss-making sub-categories for optimization
