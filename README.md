@@ -1,6 +1,7 @@
 # Global-Superstore-Sales-Prediction
 
 Global Superstore Sales Prediction & Analysis
+
 🔍 Overview
 
 This project analyzes the Global Superstore dataset to uncover sales trends, customer behavior, and business insights. It follows an end-to-end data analytics workflow including data loading, exploratory data analysis (EDA), data cleaning, visualization, and reporting.
